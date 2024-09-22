@@ -11,7 +11,7 @@
           <div style="line-height: 32px;">
 
             <div class="title" style="padding-top: 0px">系统介绍</div>
-            云帆考试系统是一款基于SpringBoot+Vue开发的考试系统。包含在线考试、用户体系、错题训练、考试规则、智能算分等考试功能，流程通畅。
+            鲸禧考试系统是一款基于SpringBoot+Vue开发的考试系统。包含在线考试、用户体系、错题训练、考试规则、智能算分等考试功能，流程通畅。
 
             <div class="title">技术栈</div>
             <div class="tags">
