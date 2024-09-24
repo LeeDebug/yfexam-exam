@@ -51,28 +51,28 @@
             <div class="title" style="padding-top: 0px">商业咨询</div>
             <div style="display: flex;">
               <div style="flex-grow: 1;">
-                <div>微信：gyh_yinzi（微信号）或搜索手机18603038204</div>
-                <div>手机：<a href="tel:18603038204">18603038204（郭女士）</a></div>
-                <div>邮箱：<a href="mailto:835487894@qq.com">835487894@qq.com</a> </div>
+                <div>微信：LeeDebug（微信号）或搜索手机15610045821</div>
+                <div>手机：<a href="tel:15610045821">15610045821（淳淳同学）</a></div>
+                <div>邮箱：<a href="mailto:961150665@qq.com">961150665@qq.com</a> </div>
               </div>
               <div style="width: 120px; display: flex; align-items: center; flex-direction: column; align-content: flex-end">
-                <img style="width: 100px; height: 100px" src="@/assets/contact.png" >
+                <img style="width: 100px; height: 100px" src="@/assets/chunchun.jpg" >
                 <div style="font-size: 12px; text-align: center; width: 100%">微信扫码加我好友</div>
               </div>
 
             </div>
 
-            <div class="title">支持网站</div>
+            <!-- <div class="title">支持网站</div>
             <div>
               <div>企业官网：<a href="https://www.yfhl.net" target="_blank">https://www.yfhl.net</a></div>
               <div>在线试用：<a href="https://exam.yfhl.net" target="_blank">https://exam.yfhl.net</a></div>
-            </div>
+            </div> -->
 
-            <div class="title">在线试用</div>
+            <!-- <div class="title">在线试用</div>
             <div style="display: flex; align-items: center">
               <img src="@/assets/h5.png" style="width: 150px; height: 150px; border: #efefef 1px solid">
               <img src="@/assets/mp.jpg" style="width: 150px; height: 150px; border: #efefef 1px solid; margin-left: 20px">
-            </div>
+            </div> -->
 
           </div>
 
